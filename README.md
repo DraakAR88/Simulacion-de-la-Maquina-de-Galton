@@ -7,3 +7,5 @@ Las características del programa:
 3. El resultado final será un histograma que represente la cantidad de canicas en cada contenedor, como el siguiente -No olvides colocar
 nombre a los ejes y un título al gráfico.
 4. Deberás emplear dos funciones, una para calcular los resultados de las canicas y la segunda para la graficación del histograma.
+
+Nota: requiere instalar matplotlib.pyplot para su correcta ejecución.
